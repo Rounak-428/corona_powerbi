@@ -10,8 +10,8 @@
 https://dev.azure.com/vanshverma3108/HR%20analytics/_git/HR%20analytics
 
  # HR ANALYTICS USING POWERBI
- coronavirus1.png
-![coronavirus5](https://user-images.githubusercontent.com/126977380/228224599-27d371ee-05e8-4255-a671-9a58fe2ce12d.png)
+ https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus1.png
+![coronavirus5]()
 ![coronavirus4](https://user-images.githubusercontent.com/126977380/228224614-66145a75-fb0c-4c44-8f41-923e1246d8dd.png)
 ![coronavirus3](https://user-images.githubusercontent.com/126977380/228224637-ad65975d-1c34-40d0-9cb1-b6e82b332326.png)
 ![coronavirus2](https://user-images.githubusercontent.com/126977380/228224650-e3d034ab-4c44-4ebb-9590-b02c3e018077.png)
