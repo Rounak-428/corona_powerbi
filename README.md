@@ -13,7 +13,7 @@ https://dev.azure.com/vanshverma3108/HR%20analytics/_git/HR%20analytics
  https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus1.png
 ![coronavirus5]()
 ![coronavirus4](https://user-images.githubusercontent.com/126977380/228224614-66145a75-fb0c-4c44-8f41-923e1246d8dd.png)
-![coronavirus3](https://user-images.githubusercontent.com/126977380/228224637-ad65975d-1c34-40d0-9cb1-b6e82b332326.png)
+![coronavirus3](https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus3.png)
 ![coronavirus2](https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus2.png)
 ![coronavirus1](https://user-images.githubusercontent.com/126977380/228224664-916ae86b-643a-443f-8c10-c8def9f25b9e.png)
 
