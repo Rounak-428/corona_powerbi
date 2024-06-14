@@ -29,4 +29,4 @@ https://github.com/Rounak-428/corona_powerbi/blob/main/deployment2.png
 https://drive.google.com/file/d/122ubKgAatrJ2bJZqcROWGYEWdqIL7Ynk/view?usp=sharing
 
 # Project information
-https://drive.google.com/file/d/1iXnuDoD0I8o7OxZgTJYkmaSe_8_L4Izy/view?usp=share_link
+https://drive.google.com/file/d/1UmiBu46WKKYMBsBfbYaK6QPaVS48nnpi/view?usp=sharing
