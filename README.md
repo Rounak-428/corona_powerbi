@@ -17,6 +17,19 @@ https://dev.azure.com/rounakraj428/_git/HR%20analytics
 ![coronavirus2](https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus2.png)
 ![coronavirus1](https://github.com/Rounak-428/corona_powerbi/blob/main/coronavirus1.png)
 
+# Azure AI sevices
+https://github.com/Rounak-428/corona_powerbi/blob/main/az1.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az2.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az3.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az4.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az5.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az6.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az7.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az8.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az9.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az10.jpg
+https://github.com/Rounak-428/corona_powerbi/blob/main/az11.jpg
+
 # Deployment 
 
 
